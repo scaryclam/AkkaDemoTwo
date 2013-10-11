@@ -1,4 +1,4 @@
-package uk.co.tangentlabs.akka;
+package uk.co.tangentlabs.akka.actors;
 
 import akka.actor.UntypedActor;
 
